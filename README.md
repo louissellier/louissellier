@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @louissellier
+- 👀 I’m interested in Python programming applied to finance
+- 🌱 I’m currently learning new algorithms to forecast financial ratios and markets
+- 💞️ I’m looking to collaborate on data science projects that helps better manage portfolios and spur business growth
+- 📫 How to reach me? Via email or Linkedin
